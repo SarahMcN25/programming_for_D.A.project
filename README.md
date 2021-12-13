@@ -9,16 +9,14 @@
 
 # **An Investigation into the Performance of Athletes**
 
-<br>
-
 ## **Overview**
+
 This is an investigation into the performance of athletes based on the following four variables:
 
 1.
 2.
 3.
 4.
-
 
 <br>
 
@@ -28,14 +26,14 @@ This is an investigation into the performance of athletes based on the following
 
 ## **Quick steps**
 
-## How to install this project
+### How to install this project
 1. python
 2. anaconda
 3. cmder
 
 <br>
 
-## How to run a jupyter notebook
+### How to run a jupyter notebook
 1. Open cmder. 
 2. Run `jupyter lab` or `jupyter notebook` on the command line 
 3. Jupyter notebook opens on local browser
@@ -51,9 +49,6 @@ This is an investigation into the performance of athletes based on the following
 ## **Credits**
 
 Any particular blogs worth crediting here....
-
-
-
 
 
 <br>
