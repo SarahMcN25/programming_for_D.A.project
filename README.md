@@ -68,8 +68,7 @@ My research for this investigation is heavily based on data collected from the f
 
 You can view this notebook on nbviewer by clicking on the following badge:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
-https://nbviewer.jupyter.org/github.com/SarahMcN25/programming_for_D.A.project)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/SarahMcN25/programming_for_D.A.project/blob/main/project.ipynb)
 
 
 ### Binder
