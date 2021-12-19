@@ -48,7 +48,7 @@ This is an investigation into the following variables within EU memeber states:
 <br>
 
 ## **Credits**
-My research for this investigation is based on data collected from the following two websites:
+My research for this investigation is heavily based on data collected from the following two websites:
 
 - https://www.ecdc.europa.eu/en/covid-19/timeline-ecdc-response
 
@@ -68,7 +68,8 @@ My research for this investigation is based on data collected from the following
 
 You can view this notebook on nbviewer by clicking on the following badge:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/SarahMcN25/programming_for_D.A.project)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
+https://nbviewer.jupyter.org/github.com/SarahMcN25/programming_for_D.A.project)
 
 
 ### Binder
@@ -77,7 +78,7 @@ You can view this notebook on nbviewer by clicking on the following badge:
 
 You can view this notebook on mybinder by clicking on the following badge:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/SarahMcN25/programming_for_D.A.project)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SarahMcN25/programming_for_D.A.project.git/HEAD)
 
 <br>
 
@@ -86,7 +87,9 @@ You can view this notebook on mybinder by clicking on the following badge:
 <br>
 
 ## **How to contribute to this project**
-If you have any queries or would like to contribute to this project please contact me [here](G00398343@gmit.ie).
+If you have any queries or would like to contribute to this project please contact me via email:
+
+G00398343@gmit.ie 
 
 <br>
 
