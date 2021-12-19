@@ -1,11 +1,4 @@
-# **Programming for Data Analysis Project:**
-### Author: Sarah McNelis - G00398343
-
-<br>
-
-***
-
-<br>
+![eu_covid_pic](https://www.schengenvisainfo.com/news/wp-content/uploads/2021/05/europe-corona-covid.jpg)
 
 # **An Investigation into the Coronavirus in the European Union**
 
@@ -63,18 +56,12 @@ My research for this investigation is heavily based on data collected from the f
 ## **Badges**
 
 ### NB viewer
-
-[Nbviewer](https://nbviewer.org/) is an online tool created by the Jupyter community for rendering notebooks in static form. 
-
 You can view this notebook on nbviewer by clicking on the following badge:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/SarahMcN25/programming_for_D.A.project/blob/main/project.ipynb)
 
 
 ### Binder
-
-[Mybinder](https://mybinder.org/) is an online service where you can share a notebook in an interactive way.
-
 You can view this notebook on mybinder by clicking on the following badge:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SarahMcN25/programming_for_D.A.project.git/HEAD)
